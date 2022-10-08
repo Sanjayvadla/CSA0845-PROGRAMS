@@ -6,3 +6,5 @@ Day 2 Programs 1 - Ckimbing Staircase 2 - 365 Days 3 - Maximum Number Of Words 4
 Day 3 Programs 1 - Share Trading 2 - Project Manager 3 - Array Of Integers 4 - Add Binary 5 - Maximum Number Of Steps 6 - Raju Troubling 7 - Permutations 8 - Anagrams 9 - Input String & Pattern 10 - Two Strings Word1 & Word2
 
 Day 4 Programs 1 - FizzBuzz 2 - Student User 3 - Numbers and Current Numbers 4 - Valid Palindrome 5 - Jumps To Reach 6 - Function Declare 7 - Count Sorted Vowel Strings 8 - Roman to Integer 9 - Year Divided Into Four Seasons 10 - Scramble String
+
+Day 5 Programs 1 - Word and Spaces 2 - Organization 3 - Perfect Square Numbers 4 - Little Robert 5 - Peak Element 6 - Triangular Array 7 - Longest Substring 8 - Matrix of Size 9 - Function Shuffle 10 - Reverse Words in a Strin
